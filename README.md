@@ -1,5 +1,5 @@
 # Lobesia and Crypto finder tool
-This repository contains the code, weights and metadata for the trained YOLO model described in the paper UNDER REVIEW. The system is capable of recognizing and counting insects attached to sticky traps using [Ultralytics YOLO](https://docs.ultralytics.com/it/) . It is specifically designed to recognize Crypto and Lobesia, and distinguish them from other insects stuck on the traps.
+This repository contains the code, weights and metadata for the trained YOLO model described in the paper IN PREP. The system is capable of recognizing and counting insects attached to sticky traps using [Ultralytics YOLO](https://docs.ultralytics.com/it/) . It is specifically designed to recognize Crypto and Lobesia, and distinguish them from other insects stuck on the traps.
 
 This readme describes the process we followed to train and test the model.
 
