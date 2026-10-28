@@ -1,0 +1,5 @@
+trap,Lobesia_true,Lobesia_predicted,Crypto_true,Crypto_predicted,Other_true,Other_predicted
+10,0,2,63,50,61,30
+17,0,0,43,43,106,34
+55,42,45,0,1,18,5
+56,35,36,0,0,15,10

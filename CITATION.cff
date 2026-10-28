@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, model or dataset, please cite it as below."
+title: "Crypto-and-Lobesia-segmentation"
+abstract: >-
+  Code, trained YOLO11 segmentation model and annotated dataset for the automatic
+  detection and counting of Lobesia botrana and Cryptoblabes gnidiella males on the
+  sticky bottoms of pheromone traps, distinguishing them from non-target insects.
+type: software
+version: 2.0.0
+authors:
+  - family-names: "De Agrò"
+    given-names: "Massimo"
+    orcid: "https://orcid.org/0000-0001-9284-5964"
+    affiliation: "Department of Psychology and Cognitive Science, University of Trento"
+  - family-names: "De Fazi"
+    given-names: "Livia"
+    orcid: "https://orcid.org/0009-0004-9788-729X"
+    affiliation: "Department of Agriculture, Food and Environment, University of Pisa"
+  - family-names: "Zeni"
+    given-names: "Valeria"
+    orcid: "https://orcid.org/0000-0002-1499-067X"
+    affiliation: "Department of Agriculture, Food and Environment, University of Pisa"
+  - family-names: "Marino"
+    given-names: "Fabio"
+    orcid: "https://orcid.org/0009-0005-6300-955X"
+    affiliation: "Department of Agricultural Sciences, Food, Natural Resources and Engineering, University of Foggia"
+  - family-names: "Ricciardi"
+    given-names: "Renato"
+    orcid: "https://orcid.org/0000-0003-2335-3135"
+    affiliation: "Department of Agriculture, Food and Environment, University of Pisa"
+repository-code: "https://github.com/massimodeagro/Crypto-and-Lobesia-segmentation"
+license:
+  - MIT
+  - CC-BY-NC-4.0
+keywords:
+  - Lobesia botrana
+  - Cryptoblabes gnidiella
+  - pheromone trap
+  - pest monitoring
+  - smart trap
+  - vineyard
+  - instance segmentation
+  - YOLO
+  - SAHI
